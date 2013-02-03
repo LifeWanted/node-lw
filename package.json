@@ -1,6 +1,6 @@
 {
     "name" : "lw",
-    "version" : "0.0.0",
+    "version" : "0.1.0",
     "description" : "Core library used by LifeWanted node projects for common utility code.",
     "main" : "lw.js",
     "scripts" : {
