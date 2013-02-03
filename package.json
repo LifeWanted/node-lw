@@ -1,0 +1,28 @@
+{
+    "name" : "lw",
+    "version" : "0.0.0",
+    "description" : "Core library used by LifeWanted node projects for common utility code.",
+    "main" : "lw.js",
+    "scripts" : {
+        "test" : "mocha test/unit"
+    },
+    "repository" : {
+        "type"  : "git",
+        "url"   : "git://github.com/LifeWanted/node-lw"
+    },
+    "keywords" : [
+        "library",
+        "utility",
+        "LifeWanted"
+    ],
+    "author" : "Nate Lillich <nate@lifewanted.com>",
+    "license" : "MIT",
+    "readmeFilename" : "README.md",
+    "dependencies" : {
+        "async"         : "0.1.x",
+        "underscore"    : "1.4.x"
+    },
+    "devDependencies" : {
+        "should"    : "1.2.x"
+    }
+}
