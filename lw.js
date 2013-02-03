@@ -1,4 +1,6 @@
 
+var _ = require( 'underscore' );
+
 var lw = {
 
     bindNth : function( func, position ){
